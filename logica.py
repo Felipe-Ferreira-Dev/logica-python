@@ -11,4 +11,15 @@ print("Sua idade + 1 é: " + str(idade))
 print("oi, " + str(nome) + "!")
 print("Ola, " + str(nome))
 
+print("---- FEAT SOMA ----")
+
+print("digite um numero: ")
+x = input()
+print("digite outro numero: ")
+y = input()
+
+resultado = x+y
+
+print("a soma dos valores é: " + str(resultado))
+
 
