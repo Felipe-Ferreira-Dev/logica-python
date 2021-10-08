@@ -8,5 +8,6 @@ idade = int(input())
 idade += 1
 print("Sua idade + 1 é: " + str(idade))
 
+print("oi, " + str(nome) + "!")
 
 
