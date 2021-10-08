@@ -18,7 +18,7 @@ x = input()
 print("digite outro numero: ")
 y = input()
 
-resultado = x+y
+resultado = (int(x)+int(y))
 
 print("a soma dos valores é: " + str(resultado))
 
